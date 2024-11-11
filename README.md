@@ -157,4 +157,4 @@ Apple Stock Forecast:
 
 
 ### RESULT:
-Thus the project on Time series analysis on Ev Sales based on the ARIMA model using python is executed successfully.
+Thus the project on Time series analysis on Apple Stock Sales based on the ARIMA model using Python is executed successfully.
